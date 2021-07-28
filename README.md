@@ -7,3 +7,5 @@
 - 用音量增減鍵選到 Recorvery mode 後按電源鍵
 - 選擇 Apply update from ADB 選項
 - 執行 `start.bat`
+- 顯示 Install from ADB completed with status 0 之後選擇 Reboot system now 重新啟動
+- ![computer_finish](https://i.imgur.com/1ANl9Ke.png)
